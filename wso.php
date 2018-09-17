@@ -44,7 +44,7 @@ function wsoLogin() {
 	<link rel='shortcut icon' href='https://cdn3.iconfinder.com/data/icons/fatcow/32/bomb.png'>
 	<meta name='viewport' content='width=device-width, initial-scale=1'>
 	
-	<link rel='stylesheet' href='https://bootswatch.com/superhero/bootstrap.min.css'>
+	<link rel='stylesheet' href='https://bootswatch.com/3/superhero/bootstrap.min.css'>
 	</head>
     <body style=''>
 	
@@ -199,7 +199,7 @@ function wsoHeader() {
 	<title>Wso ".WSO_VERSION." Shell</title>
 	<meta name='viewport' content='width=device-width, initial-scale=1'>
 	<meta name='viewport' content='width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no'>
-	<link rel='stylesheet' href='https://bootswatch.com/superhero/bootstrap.min.css'>
+	<link rel='stylesheet' href='https://bootswatch.com/3/superhero/bootstrap.min.css'>
 	<link href='https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css' rel='stylesheet'>
 <style>
 	 #myProgress {
